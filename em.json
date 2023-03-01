@@ -1,6 +1,6 @@
 {
-    "emname": "bpems",
-    "namespace": "refapps/bpems/abc",
+    "emname": "bpems9",
+    "namespace": "refapps/bpems9/abc",
     "version": "1.1.0",
     "options": {
         "management": true,
